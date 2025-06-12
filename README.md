@@ -1,13 +1,7 @@
 # Building a Home Network
 This project simulates a secure home network using Cisco Packet Tracer. The goal is to design, configure, and secure a typical home network environment.
 
-<a href="Screenshot_249.png" target="_blank">
-  <img src="Screenshot_249.png" alt="Branching" width="800"/>
-</a>
-
-
-
-
+![Screenshot_249](https://github.com/user-attachments/assets/58003c39-5f5c-402e-be98-67d279e92c4a)
 
 
 ### How I built the Home Network Lab
